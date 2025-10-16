@@ -49,4 +49,4 @@ The following dependencies are required to run the notebooks:
 
 ## Conclusion
 
-In conclusion, this project explored the Titanic dataset, performed EDA, and built an ML model to predict whether a passenger on the Titanic would survive or not, also multiple models were compared and cross validated to find the best possible model. The ML model achieved an accuracy of 82%, which is a good prediction for this dataset.
+In conclusion, this project explored the Titanic dataset, performed EDA, and built an ML model to predict whether a passenger on the Titanic would survive or not, also multiple models were compared and cross validated to find the best possible model.
